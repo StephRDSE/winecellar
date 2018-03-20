@@ -54,7 +54,7 @@ Second Choice allow user to modify bottle_nb Value decreasing Limit 0.
 ![CHOICE2](winecellar/screens/Choice2.png)
 
 Choice 0 permitt to quit application.
-![CHOICE0](winecellar/screens/Choice0.png)
+![CHOICE0](https://github.com/StephRDSE/winecellar/blob/master/screens/Choice0.PNG)
 
 <img align="left" src="./winecellar/screens/Choice0.png" alt="" title="Choice 0" hspace="20"/>
 
