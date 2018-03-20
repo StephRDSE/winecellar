@@ -11,7 +11,7 @@ Database contains 2 tables.
 ## Database Tables
 
 ### wine Table 
-How to create this table : implements this code to SQL
+#### How to create this table : implements this code to SQL
 -----------------------------
 CREATE TABLE public.wine
 (
@@ -27,7 +27,7 @@ CREATE TABLE public.wine
 )
                    
 ### cellar Table
-How to create this table : implements this code to SQL
+#### How to create this table : implements this code to SQL
 -----------------------------
 CREATE TABLE public.cellar
 (
@@ -41,3 +41,19 @@ CREATE TABLE public.cellar
         ON DELETE NO ACTION,
     CONSTRAINT minimum CHECK (bottle_nb >= 0)
 )
+## Usage
+
+In execution, the application purpose a menu to choose action, seeing below.
+![MENU](winecellar/screens/menu.png)
+
+First choice permitt to Insert a new wine Entry in table wine.
+    The app ask operator all value to Insert into Columns and purpose to add entry in cellar Table
+![MENU](winecellar/screens/Choice1.png)
+
+Second Choice allow user to modify bottle_nb Value decreasing Limit 0.
+![MENU](winecellar/screens/Choice2.png)
+
+Choice 0 permitt to quit application.
+![MENU](winecellar/screens/Choice0.png)
+
+EnD
