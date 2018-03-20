@@ -48,12 +48,14 @@ In execution, the application purpose a menu to choose action, seeing below.
 
 First choice permitt to Insert a new wine Entry in table wine.
     The app ask operator all value to Insert into Columns and purpose to add entry in cellar Table
-![MENU](winecellar/screens/Choice1.png)
+![CHOICE1](winecellar/screens/Choice1.png)
 
 Second Choice allow user to modify bottle_nb Value decreasing Limit 0.
-![MENU](winecellar/screens/Choice2.png)
+![CHOICE2](winecellar/screens/Choice2.png)
 
 Choice 0 permitt to quit application.
-![MENU](winecellar/screens/Choice0.png)
+![CHOICE0](winecellar/screens/Choice0.png)
+
+<img align="left" src="./winecellar/screens/Choice0.png" alt="" title="Choice 0" hspace="20"/>
 
 EnD
