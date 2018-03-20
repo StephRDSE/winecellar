@@ -44,18 +44,17 @@ CREATE TABLE public.cellar
 ## Usage
 
 In execution, the application purpose a menu to choose action, seeing below.
-![MENU](winecellar/screens/menu.png)
+![MENU](https://github.com/StephRDSE/winecellar/blob/master/screens/winecellar/screens/menu.png)
 
 First choice permitt to Insert a new wine Entry in table wine.
     The app ask operator all value to Insert into Columns and purpose to add entry in cellar Table
-![CHOICE1](winecellar/screens/Choice1.png)
+![CHOICE1](https://github.com/StephRDSE/winecellar/blob/master/screens/winecellar/screens/Choice1.png)
 
 Second Choice allow user to modify bottle_nb Value decreasing Limit 0.
-![CHOICE2](winecellar/screens/Choice2.png)
+![CHOICE2](https://github.com/StephRDSE/winecellar/blob/master/screens/winecellar/screens/Choice2.png)
 
 Choice 0 permitt to quit application.
 ![CHOICE0](https://github.com/StephRDSE/winecellar/blob/master/screens/Choice0.PNG)
 
-<img align="left" src="./winecellar/screens/Choice0.png" alt="" title="Choice 0" hspace="20"/>
 
-EnD
+# EnD
